@@ -56,6 +56,16 @@ button {
     }
 }
 
+dt {
+    font-size: 1.25rem;
+    color: $heading-color;
+}
+dd {
+    margin-top: 1rem;
+    margin-bottom: 3rem;
+    margin-left: 1.5rem;
+}
+
 .main {
     box-sizing: border-box;
 }
