@@ -29,6 +29,10 @@ a {
     color: #05325E;
     text-decoration: none; }
 
+.card__links a {
+  border-bottom: 0 !important;
+}
+
 p {
   margin-top: 0;
   margin-bottom: 1rem; }
@@ -259,7 +263,7 @@ html {
   line-height: 1.15; }
 
 body {
-  color: #666;
+  color: #333;
   font-family: 'PT Sans', sans-serif;
   font-size: 18px;
   font-weight: 400;
