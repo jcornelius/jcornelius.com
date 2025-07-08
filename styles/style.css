@@ -20,9 +20,9 @@ h4 {
   letter-spacing: 0; }
 
 a {
-  color: #eb3b86; }
+  color: #042646; }
   a:hover {
-    color: #db036a;
+    color: #05325E;
     text-decoration: none; }
 
 p {
@@ -31,7 +31,7 @@ p {
 
 dt {
     font-size: 1.25rem;
-    color: #eb3b86;
+    color: #042646;
 }
 dd {
     margin-top: 1rem;
@@ -41,9 +41,9 @@ dd {
 
 
 button {
-  background-color: #eb3b86 !important;
+  background-color: #042646 !important;
   padding: 12px 24px !important;
-  border: 1px solid #d31666 !important;
+  border: 1px solid #05325E !important;
   outline: none !important;
   transition: background-color 0s !important; }
   button:focus, button:active, button:hover {
@@ -51,7 +51,7 @@ button {
     box-shadow: none !important;
     transition: background-color 0s !important; }
   button:active, button:hover {
-    background-color: #cc0066 !important; }
+    background-color: #05325E !important; }
   button:active {
     transform: translateY(1.5px) !important; }
 
@@ -65,7 +65,7 @@ button {
   margin: 20px; }
 
 .separator-container__separator {
-  border-top: 3px solid #eb3b86;
+  border-top: 3px solid #042646;
   max-width: 20%;
   margin: 0 0 0 0; }
 
@@ -75,7 +75,7 @@ button {
   width: 95%;
   display: inline-block; }
   .quote__icon {
-    color: #eb3b86; }
+    color: #042646; }
   .quote__text {
     margin-top: -27px;
     margin-left: 35px; }
@@ -96,7 +96,7 @@ button {
   .heading .title-container {
     margin-top: 0; }
     .heading .title-container .separator-container__separator {
-      border-top: 9px solid #eb3b86;
+      border-top: 9px solid #042646;
       max-width: 20%;
       margin: 0 0 0 0; }
     .heading .title-container__title {
@@ -118,7 +118,7 @@ button {
     .heading .summary .card__links {
       margin-bottom: 20px; }
     .heading .summary .card__projects {
-      border-top: 1px solid #eb3b86; }
+      border-top: 1px solid #042646; }
       .heading .summary .card__projects h4 {
         font-size: 18px;
         margin-top: 20px;
