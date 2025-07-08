@@ -1,3 +1,9 @@
+---
+layout: default
+title: "J Cornelius &mdash; POA Board Candidate"
+description: "J Cornelius wants Big Canoe to be run with transparency, accountability, and fiscal responsibility."
+---
+
 # In Support of Open Dialogue and Transparent Elections in Big Canoe
 
 In every thriving community, open conversation is not a disruption — it’s a sign of health. It means people care. It means they’re paying attention. And in Big Canoe, it means we’re invested in the future of the place we call home.
