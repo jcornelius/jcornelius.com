@@ -57,7 +57,7 @@ She declined, insisting on two separate meetings. [See the email exchange here](
 
 ## Assume Positive Intent
 
-I've carried this mantra with me for decades. I believe Ms. Littleton, the Election Committee, and the POA management genuinely want what's best for Big Canoe. They are dedicating their time and attention to noble causes, and they deserve our gratitude. However, we need to look at the outcome and impact of these policies to ensure they align with our broader morals. 
+I've carried this mantra with me for decades. I believe Ms. Littleton, the Election Committee, and the POA management genuinely want what's best for Big Canoe. They are dedicating their time and attention to noble causes, and they deserve our gratitude. While thier intent is well placed, we need to look at the outcome and impact of these policies to ensure they align with our broader morals. 
 
 Is stifling free speech, and tightly controlling the process so that all information is filtered through one group of people the way we run our democracy? Is that what our civilization, country, and community stand for? No. **That's not democratic. It's state controlled media.**
 
