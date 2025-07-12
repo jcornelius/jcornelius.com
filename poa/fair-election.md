@@ -9,11 +9,13 @@ description: "J Cornelius wants Big Canoe to be run with transparency, accountab
 On June 2nd, 2025 there was a Board Candidate Info Meeting, which I attended. At that meeting the current Board members answered questions from a moderator, and from the attendees. Anyone interested in running for the Board was encouraged to take an Election Packet, which required signing a form stating that you took one. I signed, and took my packet.
 
 **In order to qualify to run for the board, a candidate must:**
-- Have been a property owner in Big Canoe for at least 2 years.
-- Be in good standing with the POA (paid current on all dues and memberships)
-- Submit a Petition for Candidacy with at least 25 signatures from other property owners. This is verified against the deed on the property.
+- Own property in Big Canoe for a period of at least twenty-four (24) consecutive months prior to the date of the Primary Election;
+- Be at least twenty-one (21) years of age by the Primary Election date;
+- Be in good standing with the POA at the time of qualifying;
+- Secure signature from at least twenty-five (25) different Property Owners representing at least twenty-five (25) of the Lots in Big Canoe;
+- Be willing to authorize a criminal background check by the POA, if requested.
 
-The deadline to submit the petition for Candidacy was June 30, 2025.
+The deadline to submit the petition for Candidacy was June 30, 2025. I meet all the criteria, and submitted my petition to Jayne Hagan before the deadline.
 
 ----
 
