@@ -30,7 +30,7 @@ Because there are 6 candidates for 2 open board positions (Terry Stewart and Mar
 ## Campaign Guidelines Restrict Free Speech
 
 The Election Packet also provides some guidelines for participation in the election, seen below.
-<img src="campaign-guidelines.jpeg" alt="Campaign Guidelines" width="600" style="margin:1rem;">
+<img src="campaign-guidelines.jpeg" alt="Campaign Guidelines" width="75%" style="margin:1rem;">
 
 Most of these seem reasonable. Not having campaign yard signs and flyers all across Big Canoe is one of the things I love about living here. There's no clutter to disrupt the natural beauty.
 

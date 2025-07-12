@@ -13,7 +13,7 @@ As a candidate for the POA Board, I respect the work of the Election Committee a
 Right now, candidates are being told they cannot share campaign-related content on any Big Canoe–related social media platforms, even in groups or pages run by residents. Instead, communication is limited to official POA-controlled channels: a digital profile, a video recording, and two email sends. While those are helpful tools, they are not sufficient.
 
 The Election Packet provides some guidelines for participation in the election, seen below.
-<img src="campaign-guidelines.jpeg" alt="Campaign Guidelines" width="600" style="margin:1rem;">
+<img src="campaign-guidelines.jpeg" alt="Campaign Guidelines" width="75%" style="margin:1rem;">
 
 Most of these seem reasonable. Not having campaign yard signs and flyers all across Big Canoe is one of the things I love about living here. There's no clutter to disrupt the natural beauty.
 
@@ -30,7 +30,7 @@ Most of these seem reasonable. Not having campaign yard signs and flyers all acr
 
 Previous conversations with various members of the POA staff and public posts by Facebook moderators (see screenshot below) claim that *Neighbor to Neighbor - Big Canoe* IS NOT a POA run Facebook group. If that's true, then why is the POA attempting to control free speech on that group (and others)?
 
-<img src="n2n-not-poa-run.png" alt="Facebook post claiming N2N is not run by the POA" width="500" style="margin:1rem;">
+<img src="n2n-not-poa-run.png" alt="Facebook post claiming N2N is not run by the POA" width="75%" style="margin:1rem;">
 
 When I asked Election Committee Chair, Elizabeth Littleton, this question her response was:
 
